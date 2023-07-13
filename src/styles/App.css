@@ -1,0 +1,53 @@
+.Voltar {
+    position: fixed;
+    bottom: 30px;
+    right: 4%;
+    z-index: 5;
+}
+.Header{
+    color: white;
+    font-size: 20px;
+    font-family: monospace;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+
+@media(max-width: 600px) {
+    .Header{
+    font-size: 15px;
+}
+}
+
+.Atribuições{
+    display: none;
+}
+.Galeria{
+    display: flex;
+    justify-content:center;
+    flex-wrap: wrap;
+    background-color: black;
+    width: 94%;
+    padding-left: 13px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    margin: 0px auto;
+}
+.Item-Galeria{
+    flex-basis: 32.7%; 
+    width: 100%;
+    margin-top: 14px;
+    opacity: 0.85;
+    cursor: pointer;
+}
+.Item-Galeria img{
+  
+    width: 95%;
+    height: 100%;
+    object-fit: cover;
+    position: relative;
+}
+.Item-Galeria img:hover{
+    transform: scale(1.1);
+    
+}
