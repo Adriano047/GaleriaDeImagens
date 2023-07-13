@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/GaleriaDeImagens/static/css/main.ef1eeb0c.css",
-    "main.js": "/GaleriaDeImagens/static/js/main.3542f195.js",
+    "main.css": "/GaleriaDeImagens/static/css/main.869dd27e.css",
+    "main.js": "/GaleriaDeImagens/static/js/main.8ffaf79a.js",
     "static/js/787.c09832c0.chunk.js": "/GaleriaDeImagens/static/js/787.c09832c0.chunk.js",
     "static/media/PinturaDigital.jpg": "/GaleriaDeImagens/static/media/PinturaDigital.7538055555c56dc6f080.jpg",
     "static/media/Invasão.jpg": "/GaleriaDeImagens/static/media/Invasão.11afc2e0d1b87dd9321c.jpg",
@@ -36,12 +36,12 @@
     "static/media/Anterior.png": "/GaleriaDeImagens/static/media/Anterior.85f7779fb45fdbbe5b1f.png",
     "static/media/Proxima.png": "/GaleriaDeImagens/static/media/Proxima.88f683417ec01089e6b6.png",
     "index.html": "/GaleriaDeImagens/index.html",
-    "main.ef1eeb0c.css.map": "/GaleriaDeImagens/static/css/main.ef1eeb0c.css.map",
-    "main.3542f195.js.map": "/GaleriaDeImagens/static/js/main.3542f195.js.map",
+    "main.869dd27e.css.map": "/GaleriaDeImagens/static/css/main.869dd27e.css.map",
+    "main.8ffaf79a.js.map": "/GaleriaDeImagens/static/js/main.8ffaf79a.js.map",
     "787.c09832c0.chunk.js.map": "/GaleriaDeImagens/static/js/787.c09832c0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef1eeb0c.css",
-    "static/js/main.3542f195.js"
+    "static/css/main.869dd27e.css",
+    "static/js/main.8ffaf79a.js"
   ]
 }
